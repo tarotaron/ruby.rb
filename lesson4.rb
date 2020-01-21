@@ -1,0 +1,2 @@
+name = "suzu"
+puts name
